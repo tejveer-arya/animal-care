@@ -539,41 +539,7 @@
 
 	});
 
-	$(function () {
-		$('.chart').easyPieChart({
-			animate: {
-				duration: 1000,
-				enabled: true
-			},
-			scaleLength: 0,
-			size: 195,
-			trackColor: '#fff',
-			barColor: '#F47932',
-			scaleColor: 'false',
-			lineWidth: 10,
-			trackWidth: 10,
-			lineCap: 'round',
-			rotate: 90,
-		});
-	});
-
-	$(function () {
-		$('.chart2').easyPieChart({
-			animate: {
-				duration: 1000,
-				enabled: true
-			},
-			scaleLength: 0,
-			size: 195,
-			trackColor: '#F4F4F4',
-			barColor: '#F3CB5F',
-			scaleColor: 'false',
-			lineWidth: 10,
-			trackWidth: 10,
-			lineCap: 'round',
-			rotate: 90,
-		});
-	});
+	
 
 
 	// ---------------- Data CSS Js

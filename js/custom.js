@@ -46,7 +46,7 @@ function validate_formland() {
 					
         $.ajax({
                 type: "POST",
-                url: 'https://svastaservices.com/contactususerenquiry.php',
+                url: 'https://tejveer-arya.github.io/animal-care/contactususerenquiry.php',
                 data: {  name: name.value,email: email.value,phone: contact.value,message: message.value },
                 cache: false,
 
