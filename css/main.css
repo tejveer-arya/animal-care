@@ -831,10 +831,10 @@ label {
 }
 .theme-menu-three .main-header-area {
   background: transparent;
-  margin-top: 70px;
+  margin-top: 30px;
   padding-left: 80px;
   padding-right: 80px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 .theme-menu-three .main-header-area.sticky-menu {
